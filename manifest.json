@@ -1,0 +1,37 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "[GMC] Land Claim System",
+    "description": "land claims can protect the claimed area from being destroyed by other players.\n\n§e<———————§f[ §lGMCStudio§r §f]§e———————>\n§e| Creator §8: §fGMCPE.\n§e| §4YouTube §8: §fGMCPE890.\n§e|       §f§l©Copyright By GMCStudio§r\n§e<—————————————————————>§r",
+    "uuid": "a84cd9a1-d447-4235-81d5-7d07bc56559d",
+    "min_engine_version": [1, 19, 50],
+    "version": [0, 0, 1]
+  },
+  "modules": [
+    {
+      "description": "Behavior Pack",
+      "type": "data",
+      "uuid": "9d85c898-a7da-433e-80be-a4d91ae8d1b6",
+      "version": [0, 0, 1]
+		},
+    {
+      "description": "Scripts",
+      "type": "script",
+      "language": "javascript",
+      "entry": "scripts/Main.js",
+      "uuid": "a2815398-a5b3-4ebb-8717-0b078c7a7ffb",
+      "version": [0, 0, 1]
+		}
+	],
+  "dependencies": [
+    {
+      "uuid": "b26a4d4c-afdf-4690-88f8-931846312678",
+      "version": "1.1.0-beta"
+		}
+  ],
+  "metadata": {
+    "authors": ["GMCPE890"],
+    "license": "MIT",
+    "url": "http://gmcstudio.ddns.net"
+  }
+}
