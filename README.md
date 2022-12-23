@@ -9,7 +9,7 @@ Example :
 
 ![](thumbnail.png?raw=true)
 
-<p align="center">[ <a href="">Download here !</p>
+<p align="center">[ <a href="">Download here !</a> ]</p>
 <p align="center">©Copyright By GMCStudio</p>
 
 # All Version
