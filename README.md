@@ -5,6 +5,7 @@
 land claims can protect the claimed area from being destroyed by other players.
 
 Example :
+<p>still a work in progress so, download button still not working.</p>
 ![](thumbnail.png?raw=true)
 
 <p align="center">[ <a href="">Download here !</p>
