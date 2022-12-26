@@ -10,7 +10,7 @@ Example :
 ![](thumbnail.png?raw=true)
 
 <p align="center">[ <a href="">Download here !</a> ]</p>
-<p align="center">©Copyright By GMCStudio</p>
+<p align="center">©Copyright By GMCPE890/p>
 
 # All Version
 - <a href="">[v0.0.1] MC support (v1.19.50)</a>
